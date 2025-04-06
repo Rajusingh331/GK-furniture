@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .product {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ddd;
+  }
+  
+  .add-to-cart {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    cursor: pointer;
+  }
+  
+  .add-to-cart:hover {
+    background-color: #45a049;
+  }
+  
+  #cart {
+    margin-top: 20px;
+  }
+  
